@@ -39,7 +39,7 @@
 ### Prototype
 * 所有对象都连接到一个原型对象，并且可以从中继承属性
 * 所有通过对象字面量创建的对象都连接到 Object.prototype
-* Oject.create() 参见 ![MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+* Oject.create() 参见 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 *
 
 
