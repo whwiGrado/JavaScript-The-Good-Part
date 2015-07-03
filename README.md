@@ -14,12 +14,12 @@
 * 没有被列在保留字里的标识符，如: undefined NaN Infinity，也不要用于语句、变量、参数、属性名、运算符和标记
 * JavaScript 只有一个数字类型，它在内部被表示为 64 位的浮点数（与Java中的double一样）
 * JavaScript 中的所有字符都是 16 位的，采用 Unicode 的 BMP（第0个面）字符集，即 u0000-uFFFF（例如 字符 A === \u0041）
-* 语句通常是按照自上而下的顺序执行的，但是 JavaScript 可以通过
+* 语句通常是按照自上而下的顺序执行的，但是 JavaScript 可以通过下列方法来改变语句的执行顺序
   - 条件语句（if、switch）
   - 循环语句（while、for、do）
   - 强制跳转语句（break、return、throw）
   - 函数调用
-  来改变语句的执行顺序
+
 *
 *
 *
